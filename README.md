@@ -8,8 +8,6 @@ To install the required dependencies, run the following command:
 
 pip install -r requirements.txt
 
-# Usage
-
 ## Run the Application
 Execute the `main.py` file to launch the text summarizer application.
 
@@ -39,7 +37,7 @@ Upon launching the application, you will see the main window containing the foll
 # Screenshots
 You can find screenshots of the application in the screenshots folder.
 
-```markdown
+# Markdown
 ![Screenshot of the App environment](app_screenshots/Screenshot1.jpg)
 
 # License
