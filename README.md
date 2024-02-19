@@ -6,7 +6,6 @@ This application provides a user-friendly interface for summarizing text documen
 
 To install the required dependencies, run the following command:
 
-```bash
 pip install -r requirements.txt
 
 # Usage
