@@ -40,8 +40,7 @@ Upon launching the application, you will see the main window containing the foll
 # Screenshots
 You can find screenshots of the application in the screenshots folder.
 
-To add a picture from the `screenshots` folder, you can use Markdown syntax like this:
-
+```markdown
 ![Screenshot](app_screenshots/Screenshot1.jpg)
 Replace `screenshot.png` with the actual filename of your screenshot.
 
