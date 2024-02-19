@@ -34,14 +34,13 @@ Upon launching the application, you will see the main window containing the foll
 - networkx: 3.1
 - scikit-learn: 1.2.2
 - customtkinter: 5.2.1
-- Download and replace the [glove.6B.100d.txt] file from the below link and put it in the App directory. (https://nlp.stanford.edu/data/glove.6B.zip)
+- Download and replace the [glove.6B.100d.txt] file from the below link and put it in the App directory. (https://nlp.stanford.edu/projects/glove/)
 
 # Screenshots
 You can find screenshots of the application in the screenshots folder.
 
 ```markdown
-![Screenshot](app_screenshots/Screenshot1.jpg)
-Replace `screenshot.png` with the actual filename of your screenshot.
+![Screenshot](screenshots/Screenshot1.jpg)
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
