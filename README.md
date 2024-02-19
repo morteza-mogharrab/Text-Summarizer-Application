@@ -40,7 +40,7 @@ Upon launching the application, you will see the main window containing the foll
 You can find screenshots of the application in the screenshots folder.
 
 ```markdown
-![Screenshot](screenshots/Screenshot1.jpg)
+![Screenshot of the App environment](app_screenshots/Screenshot1.jpg)
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
